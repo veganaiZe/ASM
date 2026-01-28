@@ -7,6 +7,7 @@ x86 (16-bit)
   - [86 Assembly Language Reference Guide](http://bitsavers.informatik.uni-stuttgart.de/components/intel/8086/9800749-1_MCS-86_Assembly_Language_Reference_Guide_Oct78.pdf) - 1978 Intel
   - [Art of Assembly Language](https://www.phatcode.net/res/223/files/html/toc.html) - Randall Hyde
 * _DOS_
+  - [HelpPC Reference Library](https://web.archive.org/web/20061107032617id_/http://heim.ifi.uio.no/%7Estanisls/helppc/) - David Jurgens
   - [PC DOS 7 Technical Update](https://web.archive.org/web/20060721115437id_/http://www.redbooks.ibm.com/redbooks/pdfs/gg244459.pdf) - 1995 IBM
   - [PC DOS Retro](https://web.archive.org/web/20220409140952/https://sites.google.com/site/pcdosretro/) - Vernon Brooks (PC DOS lead developer at IBM) _[[last archive before site delete](https://github.com/pcdosretro/PCDOSRetro.github.io/archive/6d227bc49a8f0aeaed394782e494d7caa041ef1f.zip)]_
   - Ralph Brown's Interrupt List:
