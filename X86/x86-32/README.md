@@ -8,7 +8,7 @@ quick ref
 tutorial
 --------
 
-* [Overview of IA-32 assembly programming](https://www.cs.umd.edu/~meesh/cmsc311/links/handouts/ia32.pdf) - Lars Ailo Bongo _(masm, 32 pages, pdf)_
+* [Overview of IA-32 assembly programming](https://web.archive.org/web/20240407190009id_/https://www.cs.umd.edu/~meesh/cmsc311/links/handouts/ia32.pdf) - Lars Ailo Bongo _(masm, 32 pages, pdf)_
 * [PC Assembly Language](http://pacman128.github.io/static/pcasm-book.pdf) - Paul Carter _(nasm, 190 pages, pdf)_
 * [x86 Assembly, 32 bit](https://aaronbloomfield.github.io/pdr/book/x86-32bit-asm-chapter.pdf) - Ferrari et al. _(11 pages, pdf)_
 * [x86 C Calling Convention, 32 bit](https://aaronbloomfield.github.io/pdr/book/x86-32bit-ccc-chapter.pdf) - Ferrari et al. _(7 pages, pdf)_
