@@ -32,6 +32,8 @@ graphics
 --------
 
 * [Graphics Programming Black Book](https://www.gamedev.net/reference/articles/article1698.asp) - Michael Abrash, 2001
+  ([html online](http://www.jagregory.com/abrash-black-book/))
+  ([html archive](https://github.com/jagregory/abrash-black-book/releases/download/v1.3/html.tar.gz))
   - [Cover](http://downloads.gamedev.net/pdf/gpbb/gpbb.pdf)
   - [Table of Contents](http://downloads.gamedev.net/pdf/gpbb/gpbb0.pdf)
   - [Introduction](http://downloads.gamedev.net/pdf/gpbb/gpbbintr.pdf)
