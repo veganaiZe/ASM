@@ -1,6 +1,9 @@
 # 6502 Assembly
 
 * [ca65 User's Guide](https://cc65.github.io/doc/ca65.html) - powerful macro assembler for the 6502, 65C02, and 65816 CPUs; companion assembler for [cc65](https://cc65.github.io/) crosscompiler
+* [MCS6500 MICROCOMPUTER FAMILY PROGRAMMING MANUAL](https://web.archive.org/web/20200129081101id_/http://users.telenet.be:80/kim1-6502/6502/proman.html) - 1976, 2nd ed
+* [Programming the 65816](http://web.archive.org/web/20170321153712id_/http://www.westerndesigncenter.com/wdc/documentation/Programmingthe65816_ProgManual.pdf) - 2015, 54mb
+* [6502.txt](https://www.zophar.net/fileuploads/2/10532krzvs/6502.txt) - concise info on 6502 instructions
 * [6502 Assembly](https://en.wikibooks.org/wiki/6502_Assembly) - wikibook
 * [6502 Instruction Set](https://www.masswerk.at/6502/6502_instruction_set.html) - mass:werk
 * [6502 Opcodes](http://www.6502.org/tutorials/6502opcodes.html) - 6502.org
