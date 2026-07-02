@@ -13,12 +13,17 @@
 * [65C02 Instruction Reference](https://cx16.dk/65c02/reference.html) - cx16.dk
 * [Easy 6502](https://skilldrick.github.io/easy6502/) - skilldrick
 * [EOR #$FF: 6502 Ponderables and Befuddlements](https://ia904606.us.archive.org/26/items/eor6502/eorBookV1.0.1_ebookRelease.pdf) - david youd
+* [6502 Hacks](https://nerdy-nights.nes.science/scraper/files/6502_hacks.pdf) - mark ackerman, 1987 dr. dobb's
 
----
+
+Atari
+-----
 
 * [Atari Archives](https://www.atariarchives.org/) - classic atari books
 
----
+
+Commodore
+---------
 
 * [C64 Assembler Tutorial](https://files.commodore.software/reference-material/articles-and-guides/commodore-64-articles/c64-assembler-tutorial.pdf) - cruzer/cml
 * [Commodore 64 Assembly Language Tutorial](https://files.commodore.software/reference-material/articles-and-guides/commodore-64-articles/assembler-tutor-10.pdf) - scatt
@@ -30,7 +35,9 @@
 * [COMPUTE's Gazette Disk (transcribed)](https://archive.org/details/cbm_magazine_index-gazette_disk_v2/gazette_disk/1994/gazette_disk-01-199401/) - archive.org
 * [Switch out Kernal/Basic ROM](https://www.lemon64.com/forum/viewtopic.php?t=71173) - lemon64
 
----
+
+Nintendo
+--------
 
 * [NesDev.org](https://www.nesdev.org/) - homebrew NES/SNES development wikis
 * [NESDoc.pdf](https://www.nesdev.org/NESDoc.pdf) - Patrick Diskin, 2004
@@ -39,7 +46,9 @@
   ([ca65 port](https://nerdy-nights.nes.science/downloads/nerdy-nights-ca65-js.zip))
 * [Minimal ca65 NES Example](https://github.com/bbbradsmith/NES-ca65-example) - Brad Smith
 
----
+
+Commander x16
+-------------
 
 * [Commander X16](https://github.com/commanderx16) - modern retro computer / emulator
 * [Commander X16](https://www.8bitcoding.com/p/commander-x16.html) - 8bitcoding.com
