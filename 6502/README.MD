@@ -37,6 +37,7 @@
 * [Nerdy Nights NES Tutorial](https://nerdy-nights.nes.science/)
   ([pdf](https://nerdy-nights.nes.science/downloads/Nerdy-Nights-NES-Tutorials-v1.pdf))
   ([ca65 port](https://nerdy-nights.nes.science/downloads/nerdy-nights-ca65-js.zip))
+* [Minimal ca65 NES Example](https://github.com/bbbradsmith/NES-ca65-example) - Brad Smith
 
 ---
 
