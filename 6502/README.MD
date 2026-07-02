@@ -33,6 +33,10 @@
 ---
 
 * [NesDev.org](https://www.nesdev.org/) - homebrew NES/SNES development wikis
+* [NESDoc.pdf](https://www.nesdev.org/NESDoc.pdf) - Patrick Diskin, 2004
+* [Nerdy Nights NES Tutorial](https://nerdy-nights.nes.science/)
+  ([pdf](https://nerdy-nights.nes.science/downloads/Nerdy-Nights-NES-Tutorials-v1.pdf))
+  ([ca65 port](https://nerdy-nights.nes.science/downloads/nerdy-nights-ca65-js.zip))
 
 ---
 
