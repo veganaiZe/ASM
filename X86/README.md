@@ -51,3 +51,10 @@ OS
 * [386 System Software Writer's Guide](https://www.ardent-tool.com/CPU/docs/Intel/386/manuals/231499-001.pdf) - intel (pdf)
 * [AMD64 Programmer's Manual: System Programming](https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/24593.pdf) - amd (pdf)
 * [Intel Developer's Manual: System Programming Guide](http://web.archive.org/web/20240802040216/https://cdrdv2-public.intel.com/825749/325384-sdm-vol-3abcd.pdf) - intel (pdf)
+
+
+Audio
+-----
+
+* [AdLib Programmer's Manual](http://archives.oldskool.org/pub/drivers/AdLib/Personal%20Computer%20Music%20System/AdLib%20Original%20Software/AdLib%20Programmer's%20Manual/AdLib%20Programmer's%20Manual.pdf) - 1987
+* [ES1878](https://web.archive.org/web/20200521040224if_/ftp://ftp.alsa-project.org/pub/manuals/ess/DS1878A.PDF) - register compatible with Yamaha OPL3
