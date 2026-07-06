@@ -11,6 +11,7 @@
 * [65C02 Opcode matrix](http://www.oxyron.de/html/opcodesc02.html) - oxyron.de
 * [6502 Instructions](https://www.pagetable.com/c64ref/6502/?tab=2) - ultimate commodore 64 reference
 * [65C02 Instruction Reference](https://cx16.dk/65c02/reference.html) - cx16.dk
+* [A 6502 Programmer's Introduction to the 65816](https://www.defence-force.org/computing/oric/coding/annexe_2/) - brett tabke
 * [65816 Reference](https://wiki.superfamicom.org/65816-reference) - wiki.superfamicom.org
 * [Easy 6502](https://skilldrick.github.io/easy6502/) - skilldrick
 * [EOR #$FF: 6502 Ponderables and Befuddlements](https://ia904606.us.archive.org/26/items/eor6502/eorBookV1.0.1_ebookRelease.pdf) - david youd
@@ -41,11 +42,11 @@ Nintendo
 --------
 
 * [NesDev.org](https://www.nesdev.org/) - homebrew NES/SNES development wikis
-* [NESDoc.pdf](https://www.nesdev.org/NESDoc.pdf) - Patrick Diskin, 2004
+* [NESDoc.pdf](https://www.nesdev.org/NESDoc.pdf) - patrick diskin, 2004
 * [Nerdy Nights NES Tutorial](https://nerdy-nights.nes.science/)
   ([pdf](https://nerdy-nights.nes.science/downloads/Nerdy-Nights-NES-Tutorials-v1.pdf))
   ([ca65 port](https://nerdy-nights.nes.science/downloads/nerdy-nights-ca65-js.zip))
-* [Minimal ca65 NES Example](https://github.com/bbbradsmith/NES-ca65-example) - Brad Smith
+* [Minimal ca65 NES Example](https://github.com/bbbradsmith/NES-ca65-example) - brad smith
 * [SNES Programming Guide](https://nesdoug.com/2020/03/19/snes-projects/) - nesdoug
 
 
