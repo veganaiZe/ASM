@@ -58,3 +58,4 @@ Audio
 
 * [AdLib Programmer's Manual](http://archives.oldskool.org/pub/drivers/AdLib/Personal%20Computer%20Music%20System/AdLib%20Original%20Software/AdLib%20Programmer's%20Manual/AdLib%20Programmer's%20Manual.pdf) - 1987
 * [ES1878](https://web.archive.org/web/20200521040224if_/ftp://ftp.alsa-project.org/pub/manuals/ess/DS1878A.PDF) - register compatible with Yamaha OPL3
+* [Sound Blaster Series Hardware Programming Guide](https://pdos.csail.mit.edu/6.828/2018/readings/hardware/SoundBlaster.pdf) - 1996
