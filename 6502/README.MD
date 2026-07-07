@@ -43,6 +43,7 @@ Nintendo
 
 * [NesDev.org](https://www.nesdev.org/) - homebrew nes/snes development wikis
 * [NESDoc.pdf](https://www.nesdev.org/NESDoc.pdf) - patrick diskin, 2004
+* [nestech.txt](https://nesdev.org/ndox200.zip) - y0shi
 * [Nerdy Nights NES Tutorial](https://nerdy-nights.nes.science/)
   ([pdf](https://nerdy-nights.nes.science/downloads/Nerdy-Nights-NES-Tutorials-v1.pdf))
   ([ca65 port](https://nerdy-nights.nes.science/downloads/nerdy-nights-ca65-js.zip))
