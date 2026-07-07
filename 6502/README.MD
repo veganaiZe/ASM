@@ -43,11 +43,14 @@ Nintendo
 
 * [NesDev.org](https://www.nesdev.org/) - homebrew nes/snes development wikis
 * [NESDoc.pdf](https://www.nesdev.org/NESDoc.pdf) - patrick diskin, 2004
-* [nestech.txt](https://nesdev.org/ndox200.zip) - y0shi
+* [nestech.txt (html)](https://www.nesdev.org/wiki/Nestech.txt) - v2.00
+  [y0shi](https://www.nesdev.org/wiki/User:Koitsu)
+  [[zipped txt](https://nesdev.org/ndox200.zip)]
+* [nes.doc (html)](http://emulation.org/EMUL8/NES.html) - v2.6 marat fayzullin, 2005
 * [Nerdy Nights NES Tutorial](https://nerdy-nights.nes.science/)
-  ([pdf](https://nerdy-nights.nes.science/downloads/Nerdy-Nights-NES-Tutorials-v1.pdf))
-  ([ca65 port](https://nerdy-nights.nes.science/downloads/nerdy-nights-ca65-js.zip))
-* [Minimal ca65 NES Example](https://github.com/bbbradsmith/NES-ca65-example) - brad smith
+  [[pdf](https://nerdy-nights.nes.science/downloads/Nerdy-Nights-NES-Tutorials-v1.pdf)]
+  [[ca65 port](https://nerdy-nights.nes.science/downloads/nerdy-nights-ca65-js.zip)]
+* [ca65 NES Example](https://github.com/bbbradsmith/NES-ca65-example) - brad smith
 * [SNES Programming Guide](https://nesdoug.com/2020/03/19/snes-projects/) - nesdoug
 * [fullsnes](https://problemkaputt.de/fullsnes.htm) - nocash snes hardware specifications
 * [SNES Development Wiki](https://wiki.superfamicom.org/) - wiki.superfamicom.org
