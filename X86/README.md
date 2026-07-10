@@ -57,5 +57,8 @@ Audio
 -----
 
 * [AdLib Programmer's Manual](http://archives.oldskool.org/pub/drivers/AdLib/Personal%20Computer%20Music%20System/AdLib%20Original%20Software/AdLib%20Programmer's%20Manual/AdLib%20Programmer's%20Manual.pdf) - 1987
-* [ES1878](https://web.archive.org/web/20200521040224if_/ftp://ftp.alsa-project.org/pub/manuals/ess/DS1878A.PDF) - register compatible with Yamaha OPL3
 * [Sound Blaster Series Hardware Programming Guide](https://pdos.csail.mit.edu/6.828/2018/readings/hardware/SoundBlaster.pdf) - 1996
+* [YM3812 (OPL2) Application Manual](https://www.vgmpf.com/Wiki/images/f/fe/YM3812_-_Manual.pdf) - 1992
+* [YM3812 (OPL2) Application Manual](https://dn790002.ca.archive.org/0/items/YamahaYM3812ApplicationManual/Yamaha%20YM3812%20Application%20Manual_text.pdf) - 1994
+* [YMF262 (OPL3)](https://www.vgmpf.com/Wiki/images/2/27/YMF262_-_Manual.pdf) - 1994 - register compatible with YM3812 (OPL2)
+* [ES1878](https://web.archive.org/web/20200521040224if_/ftp://ftp.alsa-project.org/pub/manuals/ess/DS1878A.PDF) - 1996 - register compatible with Yamaha OPL3
