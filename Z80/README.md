@@ -1,0 +1,13 @@
+# Z80
+
+
+* [Z80 CPU User Manual](https://www.zilog.com/docs/z80/um0080.pdf) - 2016, pdf
+
+
+Gameboy
+-------
+
+* [Game Boy Programming Manual](https://archive.org/download/GameBoyProgManVer1.1/GameBoyProgManVer1.1.pdf) - v1.1, pdf
+* [Game Boy Assembly Programming for the Modern Game Developer](https://github.com/ahrnbom/gbapfomgd/releases/download/v1.7/Game_Boy_Assembly_Programming_for_the_Modern_Game_Developer.pdf) - v1.7, pdf
+* [Gbdev](https://gbdev.gg8.se/wiki/articles/Main_Page) - wiki
+* [pandocs.html](https://gbdev.gg8.se/files/docs/mirrors/pandocs.html) - 2001, specs
