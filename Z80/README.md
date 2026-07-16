@@ -1,6 +1,7 @@
 # Z80
 
 
+* [8080 Programming Manual](https://altairclone.com/downloads/manuals/8080%20Programmers%20Manual.pdf) - 1975, pdf
 * [Z80 CPU User Manual](https://www.zilog.com/docs/z80/um0080.pdf) - 2016, pdf
 
 
