@@ -36,6 +36,7 @@ Commodore
 * [COMPUTE!'s GAZETTE (complete archive)](https://archive.org/details/computes.gazette/Compute_Gazette_Issue_01_1983_Jul/) - archive.org
 * [COMPUTE's Gazette Disk (transcribed)](https://archive.org/details/cbm_magazine_index-gazette_disk_v2/gazette_disk/1994/gazette_disk-01-199401/) - archive.org
 * [Switch out Kernal/Basic ROM](https://www.lemon64.com/forum/viewtopic.php?t=71173) - lemon64
+* [6581 SOUND INTERFACE DEVICE (SID)](http://www.monkeyspeak.com/c64_hardware_details/mos_6581_sid.pdf) - [monkeyspeak.com](http://monkeyspeak.com/c64_hardware_details/)
 
 
 Nintendo
