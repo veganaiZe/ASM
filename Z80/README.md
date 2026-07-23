@@ -1,7 +1,7 @@
 # Z80
 
 
-* [8080 vs. Z80  Instruction  Set](https://popolony2k.com.br/xtras/programming/asm/nemesis-lonestar/opcodes.txt) - 2012, txt
+* [8080 vs. Z80 Instruction Set w/ opcodes](https://popolony2k.com.br/xtras/programming/asm/nemesis-lonestar/opcodes.txt) - 2025, txt
 * [8080 Programming Manual](https://altairclone.com/downloads/manuals/8080%20Programmers%20Manual.pdf) - 1975, pdf
 * [Z80 CPU User Manual](https://www.zilog.com/docs/z80/um0080.pdf) - 2016, pdf [[html](https://zany80.github.io/documentation/Z80/UserManual.html)]
 * [Registers](http://z80-heaven.wikidot.com/the-registers-and-memory#toc11) - common uses of registers
